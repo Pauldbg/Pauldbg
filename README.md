@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&duration=2000&pause=1000&color=EE7A19&width=435&lines=%F0%9F%91%BE+Full+Stack+TypeScript+Developer+%7C+Digital+Law+Lawyer;%F0%9F%94%92+GDPR+Compliance+%E2%80%A2+Security;%F0%9F%8E%A8+Visual+Arts+%26+Animations+(GSAP%2C+interactions))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=25&duration=2000&pause=1000&color=EE7A19&width=700&lines=%F0%9F%91%BE+Full+Stack+TypeScript+Developer+%7C+Digital+Law+Lawyer;%F0%9F%94%92+GDPR+Compliance+%E2%80%A2+Security;%F0%9F%8E%A8+Visual+Arts+%26+Animations+(GSAP%2C+interactions))](https://git.io/typing-svg)
 
   <h3>🚀 Current Project: Clinical Decision Support System</h3>
 
